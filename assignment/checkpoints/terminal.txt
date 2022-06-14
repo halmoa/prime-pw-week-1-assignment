@@ -7,7 +7,7 @@
 # 3 - What is the command for going "up" a folder (to a parent directory)?
     CD..
 # 4 - What is a quick way to create a new folder?
-    mkdir
+    mkdir then folder name
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
     ls in an empty folder would be empty and ls run with a folder containing files would list each file name.
 # 6 - What is a quick way to create a new file?
@@ -17,5 +17,6 @@
 # 8 - Why would you run the command 'git status'?
  You would run git status to see the changes made within the files and the current state.
 # 9 - What does the command 'git add .' do?
-
+    It makes a change and stages your project so you're ready to commit your project.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+    git push origin main command 
