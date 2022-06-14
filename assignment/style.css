@@ -5,17 +5,18 @@ body {
 /* Make the header and footer a different color from the background */
 header, footer {
     background-color: antiquewhite;
-}
-/* Align the h1 containing your name in the center of the header*/
-header {
     text-align: center;
 }
+/* Align the h1 containing your name in the center of the header*/
+/* in line 6-8
 /* Make your p tag a different color and italic */
 p {
     color: blue;
 }
 /* Put a border around your image */
-
+img { 
+    border: 5px solid rgb(236, 218, 53);
+}
 /* Change the font-family of your list */
 ul {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
